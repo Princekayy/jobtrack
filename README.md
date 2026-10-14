@@ -2,7 +2,7 @@
 
 A clean, responsive web app for tracking job applications: built with **HTML, CSS and vanilla JavaScript**, using **Firebase Authentication** and **Cloud Firestore** for secure cloud storage.
 
-**Live demo:** _add your link here_
+**Live demo:** _coming soon_ | **Repo:** [github.com/Princekayy/jobtrack](https://github.com/Princekayy/jobtrack)
 
 <!-- Add a screenshot once deployed: save it as screenshot.png in this folder, then replace this line with: ![JobTrack screenshot](screenshot.png) -->
 
