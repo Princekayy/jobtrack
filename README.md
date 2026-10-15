@@ -4,7 +4,7 @@ A clean, responsive web app for tracking job applications: built with **HTML, CS
 
 **Live demo:** [jobtrack-ddfe1.web.app](https://jobtrack-ddfe1.web.app) | **Repo:** [github.com/Princekayy/jobtrack](https://github.com/Princekayy/jobtrack)
 
-<!-- Add a screenshot once deployed: save it as screenshot.png in this folder, then replace this line with: ![JobTrack screenshot](screenshot.png) -->
+![JobTrack dashboard](screenshot.png)
 
 ## Features
 
