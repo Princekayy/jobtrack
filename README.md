@@ -4,7 +4,7 @@ A clean, responsive web app for tracking job applications: built with **HTML, CS
 
 **Live demo:** [jobtrack-ddfe1.web.app](https://jobtrack-ddfe1.web.app) | **Repo:** [github.com/Princekayy/jobtrack](https://github.com/Princekayy/jobtrack)
 
-![JobTrack dashboard](screenshot.png)
+![JobTrack dashboard](screenshots/dashboard.png)
 
 ## Features
 
@@ -17,6 +17,16 @@ A clean, responsive web app for tracking job applications: built with **HTML, CS
 - **Secure:** Firestore security rules ensure each user can only access their own data; user input is escaped to prevent XSS
 - **Responsive:** table switches to cards on mobile
 - **Dark mode**
+
+## Screenshots
+
+| Sign in | Add an application |
+|---|---|
+| ![Sign in](screenshots/login.png) | ![Add application](screenshots/add-application.png) |
+
+| Dark mode | Mobile |
+|---|---|
+| ![Dark mode](screenshots/dashboard-dark.png) | <img src="screenshots/mobile.png" alt="Mobile view" width="260" /> |
 
 ## Tech stack
 
@@ -37,6 +47,7 @@ jobtrack/
 │   ├── app.js              # App logic: auth, Firestore CRUD, rendering
 │   └── firebase-config.js  # Firebase project settings
 ├── firestore.rules         # Database security rules
+├── screenshots/            # Images used in this README
 └── firebase.json           # Firebase Hosting / Firestore config
 ```
 
